@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 96" fill="none">
+  <rect width="96" height="96" rx="24" fill="#DBEAFE"/>
+  <path d="M26 30h10v24c0 8 4 12 12 12s12-4 12-12V30h10v25c0 14-8 22-22 22S26 69 26 55V30Z" fill="#1D4ED8"/>
+  <path d="M72 22h8v56h-8z" fill="#0F172A"/>
+  <text x="118" y="61" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" letter-spacing="-1.5">UNITFLOW</text>
+  <text x="120" y="83" fill="#BFDBFE" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="4">FACTORY ERP</text>
+</svg>
